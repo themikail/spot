@@ -7,9 +7,9 @@ from mfrc522 import SimpleMFRC522
 
 reader = SimpleMFRC522()
 
-username = '31vnn5smtag6yd5og3yrrftofveu'
-clientID = '8c9bfb062be84a0a95d6806b5eb83da0'
-clientSecret = '5c8d27a1874c40e9aff2a4eb1b8f04b2'
+username = ''
+clientID = ''
+clientSecret = ''
 redirectURI = 'https://www.google.de'
 
 # Create OAuth Object
